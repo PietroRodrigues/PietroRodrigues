@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá! Eu sou o Pietro Rodrigues 👋
 
-<!--
-**PietroRodrigues/PietroRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje Trabalho com Desenvolvimento de jogos.
+- 🌱 Estudando Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+    <img id="myImage" align="center" alt="Unity" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png">
+    <img id="myImage" align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img id="myImage" align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img id="myImage" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img id="myImage" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img id="myImage" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+    <img id="myImage" align="right" alt="PexeDevLogo" height="150" style="border-radius:50px;" src="https://i.imgur.com/6BUd0km.png" title="source: imgur.com" /> 
+</div>
+  
+  ##
+  
+<div style="display: inline_block">
+  <a href="https://www.twitch.tv/pexedev" target="_blank"><img align="right" alt="TwitchIco" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2504/2504946.png" target="_blank"></a>
+  
+  <a href="https://www.youtube.com/channel/UC03Eu9qR86qB-_NaWXisc3w" target="_blank"><img align="right" alt="YouTobeIco" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" target="_blank"></a>
+  
+  <a href="https://twitter.com/PexeDev" target="_blank"><img align="right" alt="twitterIco" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png"></a>
+  
+  <a href="https://www.instagram.com/pexedev/" target="_blank"><img align="right" alt="InstagranIco" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/pietrorodrigues" target="_blank"><img align="right" alt="linkedinIco" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" target="_blank"></a> 
+  
+</div>
