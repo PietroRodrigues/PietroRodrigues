@@ -3,13 +3,26 @@
 - 🔭 Hoje Trabalho com Desenvolvimento de jogos.
 - 🌱 Estudando Python
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=PietroRodrigues&show_icons=true&theme=dracula"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=PietroRodrigues&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+## Tecnologias que uso.
 <div style="display: inline_block"><br>
-    <img id="myImage" align="center" alt="Unity" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png">
-    <img id="myImage" align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img id="myImage" align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img id="myImage" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img id="myImage" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img id="myImage" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+    <img id="myImage" align="top" alt="Unity" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png">
+    <img id="myImage" align="top" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img id="myImage" align="top" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img id="myImage" align="top" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img id="myImage" align="top" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img id="myImage" align="top" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
     <img id="myImage" align="right" alt="PexeDevLogo" height="150" style="border-radius:50px;" src="https://i.imgur.com/6BUd0km.png" title="source: imgur.com" /> 
 </div>
   
