@@ -1,19 +1,10 @@
 ### Olá! Eu sou o Pietro Rodrigues 👋
 
 - 🔭 Hoje Trabalho com Desenvolvimento de jogos.
-- 🌱 Estudando Python
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=PietroRodrigues&show_icons=true&theme=dracula"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=PietroRodrigues&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+![Pietro Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroRodrigues&show_icons=true&theme=tokyonight&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroRodrigues&layout=compact&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que uso.
 <div style="display: inline_block"><br>
